@@ -33,3 +33,6 @@ set signcolumn=yes
 set cmdheight=2
 set laststatus=2
 hi Statusline ctermbg=Gray ctermfg=Magenta
+
+let mapleader = ","
+
