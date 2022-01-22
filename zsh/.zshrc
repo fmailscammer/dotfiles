@@ -28,4 +28,5 @@ prompt+='%{%F{white}%}'
 
 export PATH="/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10/bin:/opt/homebrew/opt/python@3.10/bin:$PATH"
 alias py="python3"
+alias neovide="~/.config/neovide/target/release/neovide"
 export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
